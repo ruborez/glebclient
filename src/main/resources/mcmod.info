@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "glebclient",
+    "name": "Gleb Client",
+    "description": "Cheat client by ruborez. Features: KillAura, Fly, ESP, X-Ray, Speed, Nuker",
+    "version": "1.0.0",
+    "mcversion": "1.21.1",
+    "authors": ["ruborez"],
+    "credits": "Gleb Client"
+  }
+]
